@@ -1,0 +1,203 @@
+{
+  "students": [
+    {
+      "name": "Hoàng Văn Học",
+      "age": 20,
+      "classes": [
+        "REACTJS_7103SE",
+        "NODEJS_2107",
+        "CD19CNTT2"
+      ],
+      "addr": "BG",
+      "course": "2019",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=f00f46f3-6278-46ef-9753-8d52fefb5582",
+      "info": {
+        "accommodations": "BR-VT",
+        "birth": "2001-11-17",
+        "nation": "Kinh",
+        "religion": "Không",
+        "mssv": "123456789",
+        "union": "2019-09-19",
+        "cmnd": "122340733",
+        "bhyt": "1214123543535",
+        "phone": "0695521332",
+        "email": "hoc17112001@gmail.com"
+      },
+      "id": 1,
+      "gender": "Nam",
+      "roles": "Không",
+      "levelEducate": "Cao đẳng",
+      "typeEducate": "Chính quy"
+    },
+    {
+      "name": "Ngọ Văn Tuấn",
+      "age": 20,
+      "classes": [
+        "REACTJS_7103SE",
+        "SQL-XAMPP"
+      ],
+      "addr": "HN",
+      "course": "2019",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Ftuanphuc.JPG?alt=media&token=f1164e8c-9138-4470-a3b8-9e9e19f88ba9",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "123153123",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "id": 3,
+      "gender": "Nữ",
+      "roles": "Hót cức",
+      "levelEducate": "Đại học",
+      "typeEducate": "Chính quy"
+    },
+    {
+      "name": "Hoàng Thế Anh",
+      "age": "20",
+      "classes": [
+        "SQL-XAMPP"
+      ],
+      "addr": "BG",
+      "course": "2019",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Ftheanh2.jpg?alt=media&token=29ee6159-fbe2-41ea-8685-06dea137884c",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "1234566",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "id": 7,
+      "gender": "Nam",
+      "roles": "Không",
+      "levelEducate": "Đại học",
+      "typeEducate": "Chính quy",
+      "union": "",
+      "cmnd": "",
+      "bhyt": "",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "name": "Ngọ Xuân Hiếu",
+      "age": "21",
+      "classes": [
+        "REACTJS_7103SE"
+      ],
+      "addr": "Bắc Giang",
+      "course": "2019",
+      "specialized": "Blowjob",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fhieutri.jpg?alt=media&token=c7f62851-f376-4f6c-b8f0-50f05b5d499d",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "66771508",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "id": 8,
+      "gender": "Nữ",
+      "roles": "Buscu",
+      "levelEducate": "Đại học",
+      "typeEducate": "Chính quy"
+    },
+    {
+      "name": "Lê Văn Hậu",
+      "age": "19",
+      "classes": [
+        "CD19CNTT2",
+        "SQL-XAMPP"
+      ],
+      "addr": "BR-VT",
+      "course": "2019",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fhieutri.jpg?alt=media&token=d17adefe-1781-49ba-ad7f-20ac50048009",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "1234554",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "id": 12,
+      "gender": "Nam",
+      "roles": "Không",
+      "levelEducate": "Cao đẳng",
+      "typeEducate": "Chính quy"
+    },
+    {
+      "name": "Nguyễn Văn Thuần",
+      "age": 20,
+      "classes": [
+        "REACTJS-7103"
+      ],
+      "addr": "HH-BG",
+      "course": "2019",
+      "specialized": "GAY",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fthuanngu.jpg?alt=media&token=fccfbb3b-a55a-444d-9a63-95f187bf9709",
+      "info": {
+        "accommodations": "HN",
+        "birth": "2001-01-01",
+        "nation": "Kinh",
+        "religion": "Không",
+        "mssv": "123445567",
+        "union": "2019-09-29",
+        "cmnd": "122340742",
+        "bhyt": "1241512353243",
+        "phone": "0987213456",
+        "email": "thuanmeo1342@gmail.com"
+      },
+      "id": 13,
+      "gender": "Nữ",
+      "roles": "Giảng hòa",
+      "levelEducate": "Cao đẳng",
+      "typeEducate": "Chính quy"
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "classname": "REACTJS_7103SE"
+    },
+    {
+      "id": 2,
+      "classname": "NODEJS_2107"
+    },
+    {
+      "id": 3,
+      "classname": "SQL-XAMPP"
+    },
+    {
+      "id": 4,
+      "classname": "CD19CNTT2"
+    },
+    {
+      "id": 5,
+      "classname": "CNTT-BK HN"
+    }
+  ]
+}
