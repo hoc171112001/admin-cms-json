@@ -5,8 +5,7 @@
       "age": 20,
       "classes": [
         "REACTJS_7103SE",
-        "NODEJS_2107",
-        "CD19CNTT2"
+        "NODEJS_2107"
       ],
       "addr": "BG",
       "course": "2019",
@@ -121,43 +120,16 @@
       "typeEducate": "Chính quy"
     },
     {
-      "name": "Lê Văn Hậu",
-      "age": "19",
-      "classes": [
-        "CD19CNTT2",
-        "SQL-XAMPP"
-      ],
-      "addr": "BR-VT",
-      "course": "2019",
-      "specialized": "CNTT",
-      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fhieutri.jpg?alt=media&token=d17adefe-1781-49ba-ad7f-20ac50048009",
-      "info": {
-        "accommodations": "",
-        "birth": "",
-        "nation": "",
-        "religion": "",
-        "mssv": "1234554",
-        "union": "",
-        "cmnd": "",
-        "bhyt": "",
-        "phone": "",
-        "email": ""
-      },
-      "id": 12,
-      "gender": "Nam",
-      "roles": "Không",
-      "levelEducate": "Cao đẳng",
-      "typeEducate": "Chính quy"
-    },
-    {
       "name": "Nguyễn Văn Thuần",
       "age": 20,
       "classes": [
-        "REACTJS-7103"
+        "REACTJS-7103",
+        "SQL-XAMPP",
+        "NODEJS_2107"
       ],
       "addr": "HH-BG",
       "course": "2019",
-      "specialized": "GAY",
+      "specialized": "CNTT",
       "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fthuanngu.jpg?alt=media&token=fccfbb3b-a55a-444d-9a63-95f187bf9709",
       "info": {
         "accommodations": "HN",
@@ -172,10 +144,458 @@
         "email": "thuanmeo1342@gmail.com"
       },
       "id": 13,
-      "gender": "Nữ",
-      "roles": "Giảng hòa",
+      "gender": "Nam",
+      "roles": "Thực tập sinh",
       "levelEducate": "Cao đẳng",
       "typeEducate": "Chính quy"
+    },
+    {
+      "name": "Lê Văn Hậu",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 14
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 15
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 16
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 17
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 18
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 19
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 20
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 21
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 22
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 23
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 24
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 25
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 26
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 27
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 28
+    },
+    {
+      "name": "test",
+      "age": "20",
+      "classes": [
+        "CD19CNTT2"
+      ],
+      "addr": "BR-VT",
+      "course": "",
+      "specialized": "CNTT",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "info": {
+        "accommodations": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "mssv": "",
+        "union": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      },
+      "gender": "",
+      "roles": "",
+      "levelEducate": "",
+      "typeEducate": "",
+      "id": 29
     }
   ],
   "classes": [
@@ -198,6 +618,30 @@
     {
       "id": 5,
       "classname": "CNTT-BK HN"
+    }
+  ],
+  "teacherInfo": [
+    {
+      "id": 1,
+      "name": "test",
+      "classes": [],
+      "msgv": "",
+      "roles": "",
+      "img": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Ftheanh2.jpg?alt=media&token=7bbf60e6-5444-4ef3-851c-11a8201076ea",
+      "info": {
+        "workDate": "",
+        "status": "",
+        "address": "",
+        "location": "",
+        "birth": "",
+        "nation": "",
+        "religion": "",
+        "gender": "",
+        "cmnd": "",
+        "bhyt": "",
+        "phone": "",
+        "email": ""
+      }
     }
   ]
 }
