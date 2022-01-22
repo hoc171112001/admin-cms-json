@@ -27,9 +27,7 @@ server.post("/auth/login", (req, res) => {
   */
   if ((username.trim() == "admin" && password == "123456") || (username.trim() == "guest" && password == "123456") ) {
     // token sign là phương thức tạp ra token cho response từ dữ liệu request đã đưa vào
-    let token = jwt.sign({ username, roles: ["read_users"] }, "private_key", {
-      expiresIn: 80 * 80,
-    }); // tham số thứ nhất không cần bảo mật , và bảo mật tham số 2
+    let token = jwt.sign({ username, roles: ["read_users"] }, "private_key"); // tham số thứ nhất không cần bảo mật , và bảo mật tham số 2
     //{expiresIn:80*80} is time to expire code
     res.jsonp({
       status: true,
@@ -71,5 +69,5 @@ server.use((req, res, next) => {
 
 server.use(router);
 server.listen(3001, () => {
-  console.log("JSON Server is running ai PORT 3001");
+  console.log("JSON Server is running at PORT 3001");
 });

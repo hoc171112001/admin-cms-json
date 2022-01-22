@@ -1,44 +1,13 @@
 {
   "students": [
     {
-      "name": "Hoàng Văn Học",
-      "age": 22,
-      "classes": [
-        "REACTJS_7103SE",
-        "NODEJS_2107",
-        "SQL-XAMPP",
-        "CD19CNTT2"
-      ],
-      "addr": "BG",
-      "course": "2019",
-      "specialized": "CNTT",
-      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Ftuanphuc.JPG?alt=media&token=d2f39a2a-5a72-4620-8e4a-e7e520291b08",
-      "info": {
-        "accommodations": "BR-VT",
-        "birth": "1999-11-17",
-        "nation": "Kinh",
-        "religion": "Không",
-        "mssv": "123456789",
-        "union": "2001-11-17",
-        "cmnd": "122340733",
-        "bhyt": "1214123543535",
-        "phone": "0695521332",
-        "email": "hoc17112001@gmail.com"
-      },
-      "id": 1,
-      "gender": "Nam",
-      "roles": "Không",
-      "levelEducate": "Cao đẳng",
-      "typeEducate": "Chính quy"
-    },
-    {
       "name": "Ngọ Văn Tuấn",
       "age": 20,
       "classes": [],
       "addr": "HN",
       "course": "2019",
       "specialized": "CNTT",
-      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Ftuanphuc.JPG?alt=media&token=f1164e8c-9138-4470-a3b8-9e9e19f88ba9",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=10a3e6fa-ae93-4a52-bd58-06ed04f49add",
       "info": {
         "accommodations": "",
         "birth": "",
@@ -129,7 +98,7 @@
       "addr": "HH-BG",
       "course": "2019",
       "specialized": "CNTT",
-      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fthuanngu.jpg?alt=media&token=fccfbb3b-a55a-444d-9a63-95f187bf9709",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fthu%E1%BA%A7n%20ngu.jpg?alt=media&token=3abb2171-189c-45e8-b4ab-1a79ab50c1a5",
       "info": {
         "accommodations": "HN",
         "birth": "2001-01-01",
@@ -203,90 +172,6 @@
       "roles": "",
       "levelEducate": "",
       "typeEducate": "",
-      "id": 15
-    },
-    {
-      "name": "test",
-      "age": "23",
-      "classes": [
-        "REACTJS_7103SE"
-      ],
-      "addr": "BR-VT",
-      "course": "",
-      "specialized": "CNTT",
-      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
-      "info": {
-        "accommodations": "",
-        "birth": "",
-        "nation": "",
-        "religion": "",
-        "mssv": "",
-        "union": "",
-        "cmnd": "",
-        "bhyt": "",
-        "phone": "",
-        "email": ""
-      },
-      "gender": "",
-      "roles": "",
-      "levelEducate": "",
-      "typeEducate": "",
-      "id": 16
-    },
-    {
-      "name": "test",
-      "age": "23",
-      "classes": [
-        "REACTJS_7103SE"
-      ],
-      "addr": "BR-VT",
-      "course": "",
-      "specialized": "CNTT",
-      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
-      "info": {
-        "accommodations": "",
-        "birth": "",
-        "nation": "",
-        "religion": "",
-        "mssv": "",
-        "union": "",
-        "cmnd": "",
-        "bhyt": "",
-        "phone": "",
-        "email": ""
-      },
-      "gender": "",
-      "roles": "",
-      "levelEducate": "",
-      "typeEducate": "",
-      "id": 17
-    },
-    {
-      "name": "test",
-      "age": "23",
-      "classes": [
-        "REACTJS_7103SE"
-      ],
-      "addr": "BR-VT",
-      "course": "",
-      "specialized": "CNTT",
-      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
-      "info": {
-        "accommodations": "",
-        "birth": "",
-        "nation": "",
-        "religion": "",
-        "mssv": "",
-        "union": "",
-        "cmnd": "",
-        "bhyt": "",
-        "phone": "",
-        "email": ""
-      },
-      "gender": "",
-      "roles": "",
-      "levelEducate": "",
-      "typeEducate": "",
       "id": 18
     },
     {
@@ -318,12 +203,12 @@
       "id": 19
     },
     {
-      "name": "test",
+      "name": "Hoàng Thế Anh",
       "age": "23",
       "classes": [
-        "REACTJS_7103SE"
+        "CD19CNTT2"
       ],
-      "addr": "BR-VT",
+      "addr": "Bắc Giang",
       "course": "",
       "specialized": "CNTT",
       "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
@@ -343,35 +228,36 @@
       "roles": "",
       "levelEducate": "",
       "typeEducate": "",
-      "id": 20
+      "id": 22
     },
     {
-      "name": "test",
-      "age": "23",
+      "name": "Nguyễn Văn Đức",
+      "age": 21,
       "classes": [
-        "REACTJS_7103SE"
+        "CNTT-BK HN",
+        "NODEJS_2107"
       ],
-      "addr": "BR-VT",
-      "course": "",
-      "specialized": "CNTT",
-      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fkonan.jpg?alt=media&token=d30638e6-e597-40e3-abff-b373655b2797",
+      "addr": "Bắc Giang",
+      "course": "2019",
+      "specialized": "Cơ khí",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Fanhcuatoi.jpg?alt=media&token=6ccfb7aa-c56f-4367-924f-e3044925e7ed",
       "info": {
-        "accommodations": "",
-        "birth": "",
-        "nation": "",
-        "religion": "",
-        "mssv": "",
-        "union": "",
-        "cmnd": "",
-        "bhyt": "",
-        "phone": "",
-        "email": ""
+        "accommodations": "Hà Nội",
+        "birth": "2001-11-29",
+        "nation": "Kinh",
+        "religion": "Không",
+        "mssv": "2135133341511",
+        "union": "2018-06-16",
+        "cmnd": "21412313123",
+        "bhyt": "11242131",
+        "phone": "0012412301301",
+        "email": "ducnguyen@gmail.com"
       },
-      "gender": "",
-      "roles": "",
-      "levelEducate": "",
-      "typeEducate": "",
-      "id": 21
+      "gender": "Nam",
+      "roles": "Không",
+      "levelEducate": "Đại học",
+      "typeEducate": "Chính quy",
+      "id": 23
     }
   ],
   "classes": [
@@ -398,161 +284,31 @@
   ],
   "teacherInfo": [
     {
-      "name": "Hoàng Văn Học",
-      "birth": "1997-11-17",
-      "gender": "Nam",
-      "teacherExp": "Junior",
-      "classes": [
-        "NODEJS_2107",
-        "CD19CNTT2"
-      ],
-      "info": {
-        "address": "HH-BG",
-        "age": 24,
-        "email": "",
-        "phone": "",
-        "bhyt": "",
-        "birth": "",
-        "location": "",
-        "nation": "",
-        "religion": "",
-        "cmnd": "",
-        "union": ""
-      },
-      "mssgv": "",
-      "img": "",
-      "workDate": "",
-      "id": 5
-    },
-    {
-      "name": "test",
-      "birth": "1994-11-17",
-      "gender": "Nam",
-      "teacherExp": "Trợ giảng",
-      "classes": [
-        "REACTJS_7103SE"
-      ],
-      "info": {
-        "address": "BG",
-        "age": 27,
-        "email": "",
-        "phone": "",
-        "bhyt": "",
-        "birth": "",
-        "location": "",
-        "nation": "",
-        "religion": "",
-        "cmnd": "",
-        "union": ""
-      },
-      "mssgv": "",
-      "img": "",
-      "workDate": "",
-      "id": 6
-    },
-    {
-      "name": "test",
-      "birth": "1994-11-17",
-      "gender": "Nam",
-      "teacherExp": "Trợ giảng",
-      "classes": [
-        "REACTJS_7103SE"
-      ],
-      "info": {
-        "address": "BG",
-        "age": 27,
-        "email": "",
-        "phone": "",
-        "bhyt": "",
-        "birth": "",
-        "location": "",
-        "nation": "",
-        "religion": "",
-        "cmnd": "",
-        "union": ""
-      },
-      "mssgv": "",
-      "img": "",
-      "workDate": "",
-      "id": 7
-    },
-    {
-      "name": "test",
-      "birth": "1994-11-17",
-      "gender": "Nam",
-      "teacherExp": "Trợ giảng",
-      "classes": [
-        "REACTJS_7103SE"
-      ],
-      "info": {
-        "address": "BG",
-        "age": 27,
-        "email": "",
-        "phone": "",
-        "bhyt": "",
-        "birth": "",
-        "location": "",
-        "nation": "",
-        "religion": "",
-        "cmnd": "",
-        "union": ""
-      },
-      "mssgv": "",
-      "img": "",
-      "workDate": "",
-      "id": 8
-    },
-    {
-      "name": "Hoàng Văn Học 3",
-      "birth": "2000-11-17",
-      "gender": "Nam",
-      "teacherExp": "Trợ giảng",
-      "classes": [
-        "REACTJS_7103SE"
-      ],
-      "info": {
-        "address": "BG",
-        "age": 21,
-        "email": "",
-        "phone": "",
-        "bhyt": "",
-        "birth": "",
-        "location": "",
-        "nation": "",
-        "religion": "",
-        "cmnd": "",
-        "union": ""
-      },
-      "mssgv": "",
-      "img": "",
-      "workDate": "",
-      "id": 20
-    },
-    {
-      "name": "Hoàng Văn Học 4",
-      "birth": "2003-11-11",
+      "name": "test2",
+      "birth": "1999-11-17",
       "gender": "Nam",
       "teacherExp": "Senior",
       "classes": [
+        "REACTJS_7103SE",
         "NODEJS_2107"
       ],
       "info": {
-        "address": "BR-VT",
-        "age": 18,
-        "email": "",
-        "phone": "",
-        "bhyt": "",
-        "birth": "",
-        "location": "",
-        "nation": "",
-        "religion": "",
-        "cmnd": "",
-        "union": ""
+        "address": "BG",
+        "age": 22,
+        "email": "hoc@gmail.com",
+        "phone": "0965521332",
+        "bhyt": "21412314123141",
+        "birth": "2001-11-17",
+        "location": "BG",
+        "nation": "Kinh",
+        "religion": "Không",
+        "cmnd": "2114213142",
+        "union": "2019-11-17"
       },
-      "mssgv": "",
-      "img": "",
-      "workDate": "",
-      "id": 21
+      "mssgv": "1122334455",
+      "img": "https://firebasestorage.googleapis.com/v0/b/fir-upload-db77d.appspot.com/o/image%2Ffukoff.jpg?alt=media&token=68f03111-8628-475b-85cc-a9c8fffb387e",
+      "workDate": "2018-02-14",
+      "id": 6
     },
     {
       "name": "Nguyễn Văn Thuần",
@@ -581,7 +337,7 @@
       "id": 22
     },
     {
-      "name": "Hoàng Thế Anh 3",
+      "name": "Hoàng Thế Anh",
       "birth": "2001-03-19",
       "gender": "Nam",
       "teacherExp": "Trợ giảng",
@@ -607,15 +363,16 @@
       "id": 23
     },
     {
-      "name": "test",
-      "birth": "2000-11-11",
-      "gender": "Nữ",
-      "teacherExp": "Trợ giảng",
+      "name": "Hoàng Thế Anh",
+      "birth": "2000-11-17",
+      "gender": "Nam",
+      "teacherExp": "Junior",
       "classes": [
-        "REACTJS_7103SE"
+        "REACTJS_7103SE",
+        "NODEJS_2107"
       ],
       "info": {
-        "address": "BG",
+        "address": "BRVT",
         "age": 21,
         "email": "",
         "phone": "",
@@ -631,6 +388,257 @@
       "img": "",
       "workDate": "",
       "id": 24
+    },
+    {
+      "name": "test-to-del",
+      "birth": "2001-02-17",
+      "gender": "Nam",
+      "teacherExp": "Trợ giảng",
+      "classes": [
+        "REACTJS_7103SE"
+      ],
+      "info": {
+        "address": "HH-BG",
+        "age": 20,
+        "email": "",
+        "phone": "",
+        "bhyt": "",
+        "birth": "",
+        "location": "",
+        "nation": "",
+        "religion": "",
+        "cmnd": "",
+        "union": ""
+      },
+      "mssgv": "",
+      "img": "",
+      "workDate": "",
+      "id": 25
+    },
+    {
+      "name": "test-to-del",
+      "birth": "2001-02-17",
+      "gender": "Nam",
+      "teacherExp": "Trợ giảng",
+      "classes": [
+        "REACTJS_7103SE"
+      ],
+      "info": {
+        "address": "HH-BG",
+        "age": 20,
+        "email": "",
+        "phone": "",
+        "bhyt": "",
+        "birth": "",
+        "location": "",
+        "nation": "",
+        "religion": "",
+        "cmnd": "",
+        "union": ""
+      },
+      "mssgv": "",
+      "img": "",
+      "workDate": "",
+      "id": 26
+    },
+    {
+      "name": "test-to-del",
+      "birth": "2001-02-17",
+      "gender": "Nam",
+      "teacherExp": "Trợ giảng",
+      "classes": [
+        "REACTJS_7103SE"
+      ],
+      "info": {
+        "address": "HH-BG",
+        "age": 20,
+        "email": "",
+        "phone": "",
+        "bhyt": "",
+        "birth": "",
+        "location": "",
+        "nation": "",
+        "religion": "",
+        "cmnd": "",
+        "union": ""
+      },
+      "mssgv": "",
+      "img": "",
+      "workDate": "",
+      "id": 27
+    }
+  ],
+  "foodOrder":[
+    {
+      "id":1,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":2,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":3,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":4,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":5,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":6,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":7,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":8,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":9,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":10,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":11,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":12,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":13,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":14,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":10,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    },
+    {
+      "id":15,
+      "name":"Hoàng Văn Học",
+      "restaurant":"Bún Chả Hà Nội",
+      "menu":["Bún chả chấm", "Bún chả canh", "Bún đậu"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy"],
+      "quantity":15,
+      "status":"Đã đặt",
+      "dateTime":"2001-11-17"
+    }
+  ],
+  "restaurant":[
+    {
+      "id":1,
+      "name":"Bún Chả Hà Nội",
+      "menu":["Bún chả canh","Bún chả chấm","Bún đậu","Bún cá"],
+      "subMenu":["Nước thêm", "Bún thêm","Cơm cháy", "Chả thêm", "Cá thêm", "Đậu thêm", "Mắm tôm"]
+    },
+    {
+      "id":2,
+      "name":"Bình dân quán",
+      "menu":["Cơm tấm", "Phở", "Bún đậu", "Cháo lòng"],
+      "subMenu":["Nước thêm", "Cơm cháy", "Chả thêm", "Cá thêm", "Đậu thêm", "Mắm tôm", "Bánh Phở"]
+    },
+    {
+      "id":3,
+      "name":"Kungfu cơm",
+      "menu":["Cơm xào hải sản", "Cơm rang dưa bò", "Cơm cháy", "Cơm Lam"],
+      "subMenu":["Cơm thêm","Nước Thêm", "Nước chấm", "Rau thơm"]
     }
   ]
+
 }
